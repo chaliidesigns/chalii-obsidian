@@ -2,7 +2,7 @@
   <img src="screenshot.png" alt="Chalii Themes for Obsidian" width="720">
 </p>
 
-<h1 align="center">📝 Chalii Themes — Obsidian</h1>
+<h1 align="center">📝 Chalii Themes - Obsidian</h1>
 
 <p align="center">
   A single CSS theme for Obsidian with warm orange accents that auto-switches between Light and Dark with the app's appearance setting.<br>
@@ -29,17 +29,17 @@
 
 ## 🌟 Highlights
 
-- 🌗 **One file, both modes** — `.theme-light` and `.theme-dark` blocks follow **Settings → Appearance → Base color scheme** (or your OS when set to *Adapt to system*)
-- 🟠 **Chalii palette** — orange accents (`#e65800` light / `#ff711a` dark), purple types, teal strings, deep `#0e0e0f` dark background
-- 🧩 **Native variables only** — overrides Obsidian's own `--background-*`, `--text-*`, `--interactive-*`, `--link-*` and `--code-*` custom properties, so plugins and core UI pick the colours up automatically
-- 🔁 **Generated from the source palette** — never hand-edited; stays in sync with the VS Code, JetBrains, Sublime, Zed and terminal ports
+- 🌗 **One file, both modes** - `.theme-light` and `.theme-dark` blocks follow **Settings → Appearance → Base color scheme** (or your OS when set to *Adapt to system*)
+- 🟠 **Chalii palette** - orange accents (`#e65800` light / `#ff711a` dark), purple types, teal strings, deep `#0e0e0f` dark background
+- 🧩 **Native variables only** - overrides Obsidian's own `--background-*`, `--text-*`, `--interactive-*`, `--link-*` and `--code-*` custom properties, so plugins and core UI pick the colours up automatically
+- 🔁 **Generated from the source palette** - never hand-edited; stays in sync with the VS Code, JetBrains, Sublime, Zed and terminal ports
 
 ## ✨ Features
 
 - ~80 CSS variables per mode covering backgrounds, borders, hover/active states, accent, text tiers (normal / muted / faint), links (internal, external, unresolved) and selection
 - Code-block syntax colours (`--code-keyword`, `--code-string`, `--code-function`, `--code-comment`, …) plus CodeMirror span rules for the editor
 - Success / error modifiers for callouts and form validation
-- No external fonts, images or `@import`s — a single 6 KB stylesheet
+- No external fonts, images or `@import`s - a single 6 KB stylesheet
 
 ## 🚀 Quick Start
 
@@ -48,7 +48,7 @@
 1. Create the directory `<vault>/.obsidian/themes/Chalii/`.
 2. Copy `theme.css` and `manifest.json` into it.
 3. Open **Settings → Appearance → Themes** and pick **Chalii**.
-4. Switch **Base color scheme** to Light, Dark or *Adapt to system* — the theme follows.
+4. Switch **Base color scheme** to Light, Dark or *Adapt to system* - the theme follows.
 
 ```bash
 # from a clone of this repo
@@ -77,7 +77,7 @@ chalii-obsidian/
 npm run build:obsidian   # writes ports/obsidian/theme.css + manifest.json
 ```
 
-**Do not edit files here directly** — open issues and pull requests against [chalii-themes](https://github.com/chaliidesigns/chalii-themes/issues), then sync the regenerated output into this repo.
+**Do not edit files here directly** - open issues and pull requests against [chalii-themes](https://github.com/chaliidesigns/chalii-themes/issues), then sync the regenerated output into this repo.
 
 ## 📄 License
 
@@ -85,14 +85,14 @@ npm run build:obsidian   # writes ports/obsidian/theme.css + manifest.json
 
 ## 👤 Author
 
-**Chalii Designs** — design & engineering studio by Jackson Makinda — [makindajackson.com](https://makindajackson.com)
+**Chalii Designs** - design & engineering studio by Jackson Makinda - [makindajackson.com](https://makindajackson.com)
 
 - 📧 Email: me@makindajackson.com
 - 💼 LinkedIn: [Jackson Makinda](https://linkedin.com/in/makindajack)
 - 🎨 Dribbble: [@makindajack](https://dribbble.com/makindajack)
 - 🐦 Twitter: [@makindajack](https://twitter.com/makindajack)
 
-Part of the **Chalii** design ecosystem — [Themes](https://github.com/chaliidesigns/chalii-themes) • [Icons](https://github.com/chaliidesigns/chalii-icons) • [Sublime](https://github.com/chaliidesigns/chalii-sublime) • [Zed](https://github.com/chaliidesigns/chalii-zed) • [Spicetify](https://github.com/chaliidesigns/chalii-spicetify)
+Part of the **Chalii** design ecosystem - [Themes](https://github.com/chaliidesigns/chalii-themes) • [Icons](https://github.com/chaliidesigns/chalii-icons) • [Sublime](https://github.com/chaliidesigns/chalii-sublime) • [Zed](https://github.com/chaliidesigns/chalii-zed) • [Spicetify](https://github.com/chaliidesigns/chalii-spicetify)
 
 ---
 
